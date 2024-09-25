@@ -37,7 +37,7 @@ This is a small side project for me to create a personal website. At the start o
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] Adding unique icons/images to the site
+- [x] Adding unique icons/images to the site
 - [ ] Unique pages
 - [ ] Links to other stuff of mine (Or anything else I feel like linking to)
 
