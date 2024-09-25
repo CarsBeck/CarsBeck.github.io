@@ -64,4 +64,6 @@ Project Link: [https://github.com/CarsBeck/CarsBeck.github.io](https://github.co
 
 * [W3Schools Kitchen Sink/W3.CSS Demo Template](https://www.w3schools.com/w3css/tryit.asp?filename=tryw3css_templates_black&stacked=h)
 
+* [Font Awesome Icons](https://fontawesome.com/)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
