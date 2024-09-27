@@ -39,6 +39,7 @@ This is a small side project for me to create a personal website. At the start o
 
 - [x] Adding unique icons/images to the site
 - [ ] Unique pages
+- [ ] Fix/chage display for mobile
 - [ ] Links to other stuff of mine (Or anything else I feel like linking to)
 
 See the [open issues](https://github.com/CarsBeck/CarsBeck.github.io/issues) for a full list of proposed features (and known issues).
